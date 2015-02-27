@@ -8,11 +8,9 @@ docroot/sites/default/files
 *.sublime-*
 .idea/*
 
-# Logs and databases #
-######################
+# Logs #
+########
 *.log
-*.sqlite
-*.sql
 
 # OS generated files #
 ######################
